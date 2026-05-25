@@ -40,3 +40,4 @@ For example, assuming there's existing repo with root directory name `monorepo_r
 1. Create another project from `databricks bundle init` with project name `project2` and root directory name `project2`.
 2. Copy the internal directory `project2/project2` to root directory of existing repo `monorepo_root_dir/project2`.
 3. Copy yaml files from `project2/.github/workflows/` to `monorepo_root_dir/.github/workflows/` and make sure there's no name conflicts.
+a
